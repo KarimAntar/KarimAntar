@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin from Google Developers Training
 - 💞️ I’m looking to collaborate on various projects for more development
 - 📫 How to reach me?
-- Facebook: @KarimMamdou7
+- LinkedIn: [@KarimMamdou7](https://www.linkedin.com/in/karimmamdouh/)
 - E-Mail: Karimamdou7@gmail.com
 
 <!---
